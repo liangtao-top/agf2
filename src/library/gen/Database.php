@@ -15,7 +15,7 @@ namespace com\agf2\library\gen;
 
 use com\agf2\abs\lib\LibAbs;
 use com\agf2\exception\GenerateException;
-use com\agf2\traits\Singleton;
+use top\liangtao\single\Singleton;
 use com\agf2\util\DbUtil;
 use com\agf2\util\MenuUtil;
 use Exception;

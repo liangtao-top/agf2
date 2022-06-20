@@ -18,7 +18,7 @@ use com\agf2\enum\Terminal;
 use com\agf2\library\gen\java\Admin;
 use com\agf2\library\gen\java\Api;
 use com\agf2\struct\JavaTerminalResponse;
-use com\agf2\traits\Singleton;
+use top\liangtao\single\Singleton;
 
 class Java extends GenAbs
 {

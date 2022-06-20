@@ -18,7 +18,7 @@ use com\agf2\enum\Terminal;
 use com\agf2\library\gen\php\Admin;
 use com\agf2\library\gen\php\Api;
 use com\agf2\struct\PHPTerminalResponse;
-use com\agf2\traits\Singleton;
+use top\liangtao\single\Singleton;
 
 class PHP extends GenAbs
 {

@@ -16,7 +16,7 @@ namespace com\agf2\library\config;
 use com\agf2\abs\ConfAbs;
 use com\agf2\library\config\php\AdminConfig;
 use com\agf2\library\config\php\ApiConfig;
-use com\agf2\traits\Singleton;
+use top\liangtao\single\Singleton;
 
 class PHPConfig extends ConfAbs
 {
