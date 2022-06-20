@@ -1,0 +1,41 @@
+{
+  "name": "liangtao/agf2",
+  "type": "library",
+  "description": "PHP core class library",
+  "keywords": [
+    "php",
+    "agf",
+    "agf2"
+  ],
+  "homepage": "https://github.com/liangtao-top/agf2",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "TaoGe",
+      "email": "liangtao.gz@foxmail.com",
+      "role": "Developer",
+      "homepage": "https://github.com/liangtao-top"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "liangtao/struct": "^1.0",
+    "topthink/framework": "^6.0.12"
+  },
+  "autoload": {
+    "psr-4": {
+      "com\\agf2\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "com\\tests\\agf2\\": "tests/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  ]
+}
