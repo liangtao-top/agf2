@@ -19,8 +19,8 @@
   ],
   "require": {
     "php": ">=8.1",
-    "liangtao/struct": "@dev",
-    "liangtao/single": "@dev",
+    "liangtao/single": "^1.0",
+    "liangtao/struct": "^1.0.2",
     "topthink/framework": "^6.0.12"
   },
   "autoload": {
